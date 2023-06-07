@@ -1,0 +1,19 @@
+.APP
+{
+  font-size: xx-large;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: rgb(0, 255, 115);
+}
+.OL
+{
+  color: rgb(0, 0, 0);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
+  background-color: beige;
+}
+
+.color
+{
+  color:red;
+  font-size: large;
+}
